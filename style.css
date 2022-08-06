@@ -90,7 +90,7 @@ button{
     box-sizing: border-box;
 }
 button:active{
-    backdrop-filter: contrast(180%);
+    background: linear-gradient(to top left,hsl(322, 100%, 66%),hsl(208, 11%, 55%) );
 }
 
 nav .navbar{
